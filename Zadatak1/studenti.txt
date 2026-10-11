@@ -1,0 +1,5 @@
+Stu dentA 54
+Stu dentB 34
+Stu dentC 93
+Stu dentD 43
+Stu dentE 65
